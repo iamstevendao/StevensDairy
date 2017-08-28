@@ -11,7 +11,7 @@ Because this is the first commit, then I should summary my coding life to this p
 Establish **LiverStudio** with 1 member (it's me for your concern >.<) with the expectation of releasing 30+ projects named with Liverpool's players. Here is the list and status of them: [LiverStudio](https://docs.google.com/spreadsheets/d/1XN6vbJsW4zw5THmVj50cbXyvk0Mu7c9UZGtzwhKGZdQ/edit?usp=sharing).
 
 - **2017-08-01 ([Javascript Games](https://repl.it/@iamstevendao))**  
-From the idea of building a bundle of console on-school games running in Cordova, I started build some easy games using pure Javascript, finished: **[Snake](https://repl.it/Jo5Y/34)**, **[Tank](https://repl.it/Jr4p/1)**, **[FlappyBird](https://repl.it/Jrka/31)** and the most complicated one: **[Pacman](https://repl.it/Jv9c/32)** although I really want to apply [Disktra's Algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm) to it when I have time.
+From the idea of building a bundle of console on-school games running in Cordova, I started build some easy games using pure Javascript, finished: **[Snake](https://repl.it/Jo5Y/34)**, **[Tank](https://repl.it/Jr4p/1)**, **[FlappyBird](https://repl.it/Jrka/31)** and the most complicated one: **[Pacman](https://repl.it/Jv9c/32)** although I really want to apply [Disktra's Algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm) make ghosts chasing pacman when I have time.
 
 - **2017-A-day-in-July (Dive into Javascript)**  
 After spending hours watching [The Coding Train](https://www.youtube.com/user/shiffman), I got 'something' with Javascript, it liked a little crush and I just want to jump into it. My Javascript started!!!
@@ -27,3 +27,10 @@ After the meetup about [Firebase](https://firebase.google.com/), I got curious a
 
 - ***Before that...***  
 There are a lot of things I want to write, but because this is the initial commit, then I leave this blank, but I promise I will be back soon.
+
+# Thank you for push me this far:
+- **[The Coding Train](https://www.youtube.com/user/shiffman)** (The beauty and power of Javascript)
+- **[Geoffrey Roberts](https://github.com/rtrvrtg)** (Using shorcuts instead of touchpad while coding (believe me, you are really impressive to me >.<))
+- **[Quang Nguyen](https://github.com/quangctkm9207)** (Habit of Writing documentation, notes and blogs)
+- **[Visual Studio Code](https://code.visualstudio.com/)** (Power and minimalist, my favourite code editor)  
+...
