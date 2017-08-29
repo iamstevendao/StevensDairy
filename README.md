@@ -1,7 +1,9 @@
 # Steven's Story
 >Contact me: [@iamstevendao](https://twitter.com/iamstevendao), [LinkedIn](https://www.linkedin.com/in/steven-dao-b9a065127/)  
 >And please, if my grammar or vocabulary is wrong or inappropriate, please correct me, I appreciate any advice.  
-
+- **2017-08-29 ([Pacman C++](https://github.com/iamstevendao/pacman_cpp))**  
+My assignment for C++ class at AIT, it was not too hard since I brought the idea of the Pacman I had made in Javascript, but C++ is always challenging. This is a markable point with **the first careful documented project** with beautiful README (my opinion >.<) by me.  
+Wish that I can keep on this habit with every project I jump in.
 - **2017-08-27 (initial commit)**  
 As being inspired by many people, articles, I decide to write my dairy (mostly coding dairy) which tells about my path full of trouble learning new stuff and to remind me not to forget (give up) the things I could have finished if I have tried a bit more.  
 An interesting thing is, with the availability of thousands of tools, webs supporting blog and diary writing, after 1 hour of signing up, trying, my decision is this 'low-level' text file and to make it as normal Git project >.<  
@@ -15,7 +17,7 @@ From the idea of building a bundle of console on-school games running in Cordova
 
 - **2017-A-day-in-July (Dive into Javascript)**  
 After spending hours watching [The Coding Train](https://www.youtube.com/user/shiffman), I got 'something' with Javascript, it liked a little crush and I just want to jump into it. My Javascript started!!!
-
+`
 - **2017-A-day-in-April ([Portfolio](http://stevend.tk/))**  
 I got rejected every where I applied for a position, I was asking myself many times, why? I had studied hard, worked hard, got certain achievements that my friends had to be jealous. I knew I could learn fast, do multi tasking but how to show it to recruiters when my English was not good enough, there must be a way. That was the time I started making my [portfolio](http://stevend.tk/) which the idea came from everything inside a code editor. I am so proud of it, many people liked it, and I got more interview than before.
 
