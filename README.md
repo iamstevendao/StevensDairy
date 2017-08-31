@@ -1,7 +1,7 @@
 # Steven's Story
 >Contact me: [@iamstevendao](https://twitter.com/iamstevendao), [LinkedIn](https://www.linkedin.com/in/steven-dao-b9a065127/)  
 >And please, if my grammar or vocabulary is wrong or inappropriate, please correct me, I appreciate any advice. 
-- **2017-08-30 ([AfterAll]() & [Superfast-Dictionary]() to be open-source)**  
+- **2017-08-30 ([AfterAll](https://github.com/iamstevendao/AfterAll) & [Superfast-Dictionary](https://github.com/iamstevendao/Superfast-Dictionary) to be open-source)**  
 I decide to move my 2 very first projects from Bitbucket to Github. Just wish one day someone find them interesting and continue what I have left.  
 - **2017-08-29 ([Pacman C++](https://github.com/iamstevendao/pacman_cpp))**  
 My assignment for C++ class at AIT, it was not too hard since I brought the idea of the Pacman I had made in Javascript, but C++ is always challenging. This is a markable point with **the first careful documented project** with a beautiful README (my opinion >.<) by me.  
@@ -23,7 +23,7 @@ After spending hours watching [The Coding Train](https://www.youtube.com/user/sh
 - **2017-A-day-in-April ([Portfolio](http://stevend.tk/))**  
 I got rejected every where I applied for a position, I was asking myself many times, why? I had studied hard, worked hard, got certain achievements that my friends had to be jealous. I knew I could learn fast, do multi tasking but how to show it to recruiters when my English was not good enough, there must be a way. That was the time I started making my [portfolio](http://stevend.tk/) which the idea came from everything inside a code editor. I am so proud of it, many people liked it, and I got more interview than before.
 
-- **2016-A-day-in-June/July ([AfterAll]())**  
+- **2016-A-day-in-June/July ([AfterAll](https://github.com/iamstevendao/AfterAll))**  
 I and my girl friend want to store and keep our special dates, we had tried many different apps in Apple and Android store but got satified with non of them (poor design, ads). Then I decided to build our own app. It was roughly finished but I still not publish yet as there are some bugs and I feel really hesitate to fix all of them >.< (I hate myself)
 
 - **2016-03-14 ([Superfast Dictionary](https://play.google.com/store/apps/details?id=fukie.sieunhanhav))**  
