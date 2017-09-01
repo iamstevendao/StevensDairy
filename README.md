@@ -1,5 +1,5 @@
 # Steven's Story
->Contact me: [@iamstevendao](https://twitter.com/iamstevendao), [LinkedIn](https://www.linkedin.com/in/steven-dao-b9a065127/)  
+[![@iamstevendao](https://img.shields.io/badge/twitter-@iamstevendao-blue.svg)](https://twitter.com/iamstevendao) [![@linkedin](https://img.shields.io/badge/LinkedIn-@iamstevendao-blue.svg)](https://www.linkedin.com/in/steven-dao-b9a065127/)  
 >And please, if my grammar or vocabulary is wrong or inappropriate, please correct me, I appreciate any advice. 
 - **2017-08-30 ([AfterAll](https://github.com/iamstevendao/AfterAll) & [Superfast-Dictionary](https://github.com/iamstevendao/Superfast-Dictionary) to be open-source)**  
 I decide to move my 2 very first projects from Bitbucket to Github. Just wish one day someone find them interesting and continue what I have left.  
@@ -27,7 +27,7 @@ I got rejected every where I applied for a position, I was asking myself many ti
 I and my girl friend want to store and keep our special dates, we had tried many different apps in Apple and Android store but got satified with non of them (poor design, ads). Then I decided to build our own app. It was roughly finished but I still not publish yet as there are some bugs and I feel really hesitate to fix all of them >.< (I hate myself)
 
 - **2016-03-14 ([Superfast Dictionary](https://play.google.com/store/apps/details?id=fukie.sieunhanhav))**  
-After the meetup about [Firebase](https://firebase.google.com/), I got curious about **NoSQL**, after try out, I built my first application by 1 week of painful fighting with **Android Studio** which was a totally strange thing with me. I was very happy because it was the first 'something' I could make my own.
+After the meetup about [Firebase](https://firebase.google.com/), I got curious about **NoSQL**, after try out, I built my first application by 1 week of a painful fighting with **Android Studio** which was a totally strange thing with me. I was very happy because it was the first 'something' I could make my own.
 
 - ***Before that...***  
 There are a lot of things I want to write, but because this is the initial commit, then I leave this blank, but I promise I will be back soon.
