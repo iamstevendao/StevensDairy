@@ -1,6 +1,8 @@
 # Steven's Story
 [![@iamstevendao](https://img.shields.io/badge/twitter-@iamstevendao-blue.svg)](https://twitter.com/iamstevendao) [![@linkedin](https://img.shields.io/badge/LinkedIn-@iamstevendao-blue.svg)](https://www.linkedin.com/in/steven-dao-b9a065127/)  
 >And please, if my grammar or vocabulary is wrong or inappropriate, please correct me, I appreciate any advice. 
+- **2017-09-02 (Documentation Day)**
+Nothing much special today since I work around documenting and fixing display errors of my [website](http://stevend.tk/), [Naruto website](https://github.com/iamstevendao/Naruto), [AfterAll](https://github.com/iamstevendao/AfterAll) and [Superfast Dictionary](https://github.com/iamstevendao/Superfast-Dictionary). 
 - **2017-08-30 ([AfterAll](https://github.com/iamstevendao/AfterAll) & [Superfast-Dictionary](https://github.com/iamstevendao/Superfast-Dictionary) to be open-source)**  
 I decide to move my 2 very first projects from Bitbucket to Github. Just wish one day someone find them interesting and continue what I have left.  
 - **2017-08-29 ([Pacman C++](https://github.com/iamstevendao/pacman_cpp))**  
