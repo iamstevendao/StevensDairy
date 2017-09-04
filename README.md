@@ -1,6 +1,10 @@
 # Steven's Story
 [![@iamstevendao](https://img.shields.io/badge/twitter-@iamstevendao-blue.svg)](https://twitter.com/iamstevendao) [![@linkedin](https://img.shields.io/badge/LinkedIn-@iamstevendao-blue.svg)](https://www.linkedin.com/in/steven-dao-b9a065127/)  
->And please, if my grammar or vocabulary is wrong or inappropriate, please correct me, I appreciate any advice. 
+>And please, if my grammar or vocabulary is wrong or inappropriate, please correct me, I appreciate any advice.
+
+- **2017-09-04 ([Steven's Blog](https://iamstevendao.github.io/blog) and transferring this page to [Steven's Dairy](https://iamstevendao.github.io/blog/dairy/))**  
+I start writing blog (>.<), after found a really impressive persional blog of [Evan Hahn](http://evanhahn.com/). It urges me and I belive I can write my own blog and therefore this dairy will be moved into a subfolder of the blog. check it here: [Steven's Dairy](https://iamstevendao.github.io/blog/dairy/).  
+
 - **2017-09-02 (Documentation Day)**
 Nothing much special today since I work around documenting and fixing display errors of my [website](http://stevend.tk/), [Naruto website](https://github.com/iamstevendao/Naruto), [AfterAll](https://github.com/iamstevendao/AfterAll) and [Superfast Dictionary](https://github.com/iamstevendao/Superfast-Dictionary). 
 - **2017-08-30 ([AfterAll](https://github.com/iamstevendao/AfterAll) & [Superfast-Dictionary](https://github.com/iamstevendao/Superfast-Dictionary) to be open-source)**  
