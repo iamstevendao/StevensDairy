@@ -1,4 +1,4 @@
-# Steven's Story
+# Steven's Story (transfered to [blog/diary](https://iamstevendao.github.io/blog/diary/))
 [![@iamstevendao](https://img.shields.io/badge/twitter-@iamstevendao-blue.svg)](https://twitter.com/iamstevendao) [![@linkedin](https://img.shields.io/badge/LinkedIn-@iamstevendao-blue.svg)](https://www.linkedin.com/in/steven-dao-b9a065127/)  
 >And please, if my grammar or vocabulary is wrong or inappropriate, please correct me, I appreciate any advice.
 
